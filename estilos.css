@@ -1,0 +1,16 @@
+p{
+    color: #F1C93B;
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h1{color:#B31312;
+  font-size: 100px;/* tamaño de la letra */
+  text-align:center;/* centra los textos */
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; /*fuentes */
+}
+div{ background-color: #000;}/**color de fondo **/ 
+img{width: 300px;/*tamaño de ancho*/
+    height: 500px;/*tamaño alto*/
+    border-radius: 50%;
+}
+.otro-div{background-color: #B31312;}
